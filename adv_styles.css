@@ -1,0 +1,94 @@
+body {
+    margin: 0px;
+}
+
+a {
+    padding-top: 20px;
+    padding-right: 20px;
+    float: right;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    padding-top: 15px;
+    padding-left: 20px;
+    width: 92px;
+    height: 30px;
+}
+
+nav {
+    background-color: rgb(219, 218, 218);
+    height: 60px;
+}
+
+p {
+    margin: 30px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: red;
+    margin: 30px;
+    margin-left: 50px;
+    font-weight: normal;
+}
+
+hr {
+    border-color: rgb(219, 218, 218);
+}
+
+form {
+    margin-left: 50px;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+#input1 {
+    margin-left: 100px;
+    width: 43%;
+    height: 20px;
+}
+
+#input2 {
+    margin-left: 35px;
+    width: 43%;
+    height: 20px;
+}
+
+#input3 {
+    margin-left: 75px;
+    width: 43%;
+    height: 20px;
+}
+
+#input4 {
+    margin-left: 67px;
+    width: 43%;
+    height: 20px;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+#Submit-button {
+    background-color: #8ab4f8;
+    color: white;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    margin-left: 628px;
+    border-style: hidden;
+}
+
+#Submit-button:hover {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
